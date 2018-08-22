@@ -1,0 +1,45 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.AppCompat.Light">
+
+    <LinearLayout
+        android:id="@+id/local_information_relative_layout"
+        style="@style/local_information_relative_layout">
+
+        <ImageView
+            android:id="@+id/local_information_picture"
+            style="@style/local_information_picture"
+            android:src="@drawable/porto_list" />
+
+        <LinearLayout
+            android:id="@+id/local_information_linear"
+            style="@style/local_information_linear">
+
+            <ImageButton
+                android:id="@+id/local_information_telephone"
+                style="@style/local_information_telephone"
+                android:src="@drawable/telephone" />
+
+            <ImageButton
+                android:id="@+id/local_information_website"
+                style="@style/local_information_website"
+                android:src="@drawable/website" />
+
+            <ImageButton
+                android:id="@+id/local_information_email"
+                style="@style/local_information_email"
+                android:src="@drawable/email" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/local_information_address"
+            style="@style/local_information_address"
+            android:text="Address Placeholder" />
+
+        <TextView
+            android:id="@+id/local_information_description"
+            style="@style/local_information_description"
+            android:text="Placeholder" />
+    </LinearLayout>
+</ScrollView>

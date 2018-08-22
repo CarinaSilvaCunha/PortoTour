@@ -1,0 +1,189 @@
+<resources>
+    <!-- Main Page-->
+    <string name="app_name">PortoTour</string>
+    <string name="porto_main_activity">Porto - Portugal</string>
+    <string name="porto_main_text">Porto is the second-largest city in Portugal after Lisbon.\n Located along the Douro river estuary in Northern Portugal,
+        Porto is one of the oldest European centres, and its historical core was proclaimed a World Heritage Site by UNESCO in 1996.\n
+        The western part of its urban area extends to the coastline of the Atlantic Ocean.</string>
+    <string name="porto_explore_button">Come Explore!</string>
+    <!-- -->
+
+    <string name="local_name">Porto</string>
+    <string name="local_address">Address</string>
+    <string name="local_picture">Picture</string>
+    <string name="local_telephone">Phone</string>
+    <string name="local_phone">Phone:</string>
+    <string name="local_web">Web</string>
+    <string name="local_email">E-mail</string>
+    <string name="local_email_subject">Placehoder email subject</string>
+
+    <string name="local_intent_name">Local Name:</string>
+    <string name="local_intent_small_desc">Local Small Description:</string>
+    <string name="local_intent_full_desc">Local Full Description:</string>
+    <string name="local_intent_url">Local URL:</string>
+    <string name="local_intent_email">Local E-mail:</string>
+    <string name="local_intent_telephone">Local Telephone:</string>
+    <string name="local_intent_address">Local Address:</string>
+    <string name="local_intent_picture">Local Picture:</string>
+    <string name="porto_placeholder">Porto Local</string>
+    <string name="click">click</string>
+
+    <!-- Tabs -->
+    <string name="experiences_tab">Experiences</string>
+    <string name="hotels_tab">Hotels</string>
+    <string name="restaurants_tab">Restaurants</string>
+    <string name="activities_tab">Activities</string>
+
+    <!-- Activities Fragment-->
+    <!-- Activities Fragment 01-->
+    <string name="portoLocalName01">Douro Valley</string>
+    <string name="portoLocalSmallDescription01">Douro Valley Wine Tasting Tour, Lunch, River Cruise</string>
+    <string name="portoLocalDescription01">Visit Portugal’s prestigious Douro Valley on this full-day wine tour from Porto!
+        Famous for its production of port wine, this UNESCO World Heritage-listed region is indisputably scenic,
+        with swathes of vineyards clinging to the hills around the Douro River. Admire the scenery around the village of Pinhão,
+        enjoy a traditional lunch of regional specialties and visit a winery estate for a tasting session of award-winning local wines. </string>
+    <string name="portoLocalURL01">https://www.lonelyplanet.com/portugal/porto/activities/douro-valley-wine-tasting-tour-lunch-river-cruise-option/a/pa-act/v-12546DOUROVALLEY/360380</string>
+    <string name="portoLocalEmail01">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress01">Douro Valley</string>
+    <!-- Activities Fragment 02-->
+    <string name="portoLocalName02">Hop Bus</string>
+    <string name="portoLocalSmallDescription02">Porto Hop-On Hop-Off Bus</string>
+    <string name="portoLocalDescription02">Go sightseeing in Porto at your own pace on a hop-on hop-off bus tour to see the city’s historic attractions and castles, beaches and port.
+        Admire all the sights from an open-top double-decker bus, and then hop on and off whenever you like to explore more on your own.</string>
+    <string name="portoLocalURL02">https://www.lonelyplanet.com/portugal/porto/activities/porto-hop-on-hop-off-bus-with-cruise-and-wine-tasting-upgrades/a/pa-act/v-5391PORTOHOHO/360380</string>
+    <string name="portoLocalEmail02">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress02">Porto city hall</string>
+    <!-- Activities Fragment 03-->
+    <string name="portoLocalName03">Porto Food</string>
+    <string name="portoLocalSmallDescription03">Porto Food and Wine Tasting Tour</string>
+    <string name="portoLocalDescription03">We believe that the best way to discover our culture is through the taste, sitting around at a table, sharing stories,
+        learning about our history, enjoying our local delicacies and tasting the best wine produced in the region. Join us in a walk through the old town where you will
+        discover the most authentic taverns, get in touch with the saleswomen of our traditional fresh goods market, and feel like a local. </string>
+    <string name="portoLocalURL03">https://www.lonelyplanet.com/portugal/porto/activities/porto-food-and-wine-tasting-tour/a/pa-act/v-5902FOODWINE/360380</string>
+    <string name="portoLocalEmail03">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress03">Porto Main CTT</string>
+    <!-- Activities Fragment 04-->
+    <string name="portoLocalName04">Braga, Guimarães</string>
+    <string name="portoLocalSmallDescription04">Guimarães and Braga Day Trip</string>
+    <string name="portoLocalDescription04">Travel north on a day trip from Porto to two of northern Portugal\'s historic cities, which are currently basking in the European spotlight.
+     First, discover the country's origins in the UNESCO World Heritage-listed town of Guimarães. Then visit the city of Braga, founded by the Romans more than 2,000 years ago. </string>
+    <string name="portoLocalURL04">https://www.lonelyplanet.com/portugal/porto/activities/guimaraes-and-braga-day-trip-from-porto/a/pa-act/v-5550MINHO/360380</string>
+    <string name="portoLocalEmail04">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress04">Porto City Hall</string>
+
+    <!-- Experiences Fragment-->
+    <!-- Experiences Fragment 01-->
+    <string name="portoLocalName05">Ribeira</string>
+    <string name="portoLocalSmallDescription05">Ribeira is Porto\'s biggest heart-stealer</string>
+    <string name="portoLocalDescription05">Ribeira is Porto\'s biggest heart-stealer. Its Unesco World Heritage maze of medieval alleys zigzags down to the Douro River
+        and a promenade lined with slender, pastel-hued houses and hole-in-the-wall tascas (taverns), with front-row views of the spectacular Ponte de Dom Luís I and
+        the port-wine lodges across the river in Vila Nova de Gaia. Jam-packed with sights, shops and restaurants (and flocks of tourists), this historic neighbourhood is postcard Porto.</string>
+    <string name="portoLocalURL05">https://www.lonelyplanet.com/portugal/porto/ribeira</string>
+    <string name="portoLocalEmail05">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress05">Ribeira, Porto</string>
+    <!-- Experiences Fragment 02-->
+    <string name="portoLocalName06">Igreja de São Francisco</string>
+    <string name="portoLocalSmallDescription06">Igreja de São Francisco</string>
+    <string name="portoLocalDescription06">Igreja de São Francisco looks from the outside to be an austerely Gothic church, but inside it hides one of Portugal\’s most dazzling
+        displays of baroque finery. Hardly a centimetre escapes unsmothered, as otherworldly cherubs and sober monks are drowned by nearly 100kg of gold leaf.
+        If you see only one church in Porto, make it this one.</string>
+    <string name="portoLocalURL06">https://www.lonelyplanet.com/portugal/porto/attractions/igreja-de-sao-francisco/a/poi-sig/423647/360380</string>
+    <string name="portoLocalEmail06">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress06">Rua do Infante D Henrique</string>
+    <!-- Experiences Fragment 03-->
+    <string name="portoLocalName07">Serralves</string>
+    <string name="portoLocalSmallDescription07">This fabulous cultural institution </string>
+    <string name="portoLocalDescription07">This fabulous cultural institution combines a museum, a mansion and extensive gardens. Cutting-edge exhibitions, along with a
+        fine permanent collection featuring works from the late 1960s to the present, are showcased in the Museu de Arte Contemporânea, an arrestingly minimalist,
+        whitewashed space designed by the eminent Porto-based architect Álvaro Siza Vieira. The delightful, pink Casa de Serralves is a prime example of art deco, bearing the imprint
+        of French architect Charles Siclis. One ticket gets you into both museums.</string>
+    <string name="portoLocalURL07">https://www.lonelyplanet.com/portugal/porto/attractions/serralves/a/poi-sig/423659/360380</string>
+    <string name="portoLocalEmail07">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress07">Rua Dom João de Castro 210</string>
+    <!-- Experiences Fragment 04-->
+    <string name="portoLocalName08">Sé</string>
+    <string name="portoLocalSmallDescription08">Cathedral in Ribeira</string>
+    <string name="portoLocalDescription08">From Praça da Ribeira rises a tangle of medieval alleys and stairways that eventually reach the hulking, hilltop fortress of the cathedral.
+        Founded in the 12th century, it was largely rebuilt a century later and then extensively altered during the 18th century. However, you can still make out the church’s Romanesque
+        origins in the barrel-vaulted nave. Inside, a rose window and a 14th-century Gothic cloister also remain from its early days. </string>
+    <string name="portoLocalURL08">https://www.lonelyplanet.com/portugal/porto/attractions/se/a/poi-sig/423639/360380</string>
+    <string name="portoLocalEmail08">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress08">Sé, Porto</string>
+
+
+    <!-- Hotels Fragment-->
+    <!-- Hotels Fragment 01-->
+    <string name="portoLocalName09">Torel Avantgarde</string>
+    <string name="portoLocalSmallDescription09">Torel Avantgarde</string>
+    <string name="portoLocalDescription09">High on a hill in Miragaia, this decadent five-star boutique hotel hit the ground when it opened in autumn 2017.
+        Named after prominent avant-garde artists, designers and musicians – from Warhol to Nina Simone – the luxe rooms and suites are decorated in rich colours and fabrics,
+        with bespoke murals, hand-woven rugs and home-style perks like Nespresso machines.</string>
+    <string name="portoLocalURL09">https://www.lonelyplanet.com/portugal/porto/hotels/torel-avantgarde/a/lod/1f611809-158f-4074-bb83-351d382e3b16/360380</string>
+    <string name="portoLocalEmail09">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress09">boutique hotel in Miragaia</string>
+    <!-- Hotels Fragment 02-->
+    <string name="portoLocalName10">Yeatman</string>
+    <string name="portoLocalSmallDescription10">Yeatman</string>
+    <string name="portoLocalDescription10">Named after one of Taylor’s original founders, the Yeatman is Porto\'s only true five-star resort, terraced and tucked into the Gaia
+        hillside with expansive Douro and Porto views. There’s a Michelin-starred chef; huge, sumptuous guest rooms and suites with private terraces; a decanter-shaped pool;
+        sunken Roman baths in the fantastic Caudalie spa; and close to everything else you could possibly wish for.</string>
+    <string name="portoLocalURL10">https://www.lonelyplanet.com/portugal/porto/hotels/yeatman/a/lod/791f5de2-4967-4563-aa7d-0ec6cefa9bb5/360380</string>
+    <string name="portoLocalEmail10">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress10">Rua do Choupelo</string>
+    <!-- Hotels Fragment 03-->
+    <string name="portoLocalName11">Hotel Aliados</string>
+    <string name="portoLocalSmallDescription11">Hotel Aliados</string>
+    <string name="portoLocalDescription11">Set in one of Porto’s beaux arts buildings, this affordable hotel offers bright rooms with wooden floors, the best of which have
+        balconies with views of the city and Avenida dos Aliados. Some areas could do with a little TLC and light sleepers may find rooms noisy.</string>
+    <string name="portoLocalURL11">https://www.lonelyplanet.com/portugal/porto/hotels/hotel-aliados/a/lod/42933c7a-8044-44bc-8b08-9d100fe007c4/360380</string>
+    <string name="portoLocalEmail11">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress11">Rua Elísio de Melo</string>
+    <!-- Hotels Fragment 04-->
+    <string name="portoLocalName12">Vincci Porto</string>
+    <string name="portoLocalSmallDescription12">Vincci Porto</string>
+    <string name="portoLocalDescription12">This upscale design hotel down by the river has a clean, modern aesthetic. The skylit lobby with high ceilings segues into spacious,
+        streamlined rooms done out in shades of blue and contemporary furnishings. Large suites and a babysitting service make this one a good choice for families.
+        The restaurant, 33 Alameda, is highly recommended.</string>
+    <string name="portoLocalURL12">https://www.lonelyplanet.com/portugal/porto/hotels/vincci-porto/a/lod/557cf6f4-891e-4b48-9343-208f870d5ecc/360380</string>
+    <string name="portoLocalEmail12">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress12">Design hotel in Massarelos</string>
+
+    <!-- Restaurants Fragment-->
+    <!-- Restaurants Fragment 01-->
+    <string name="portoLocalName13">Pedro Lemos</string>
+    <string name="portoLocalSmallDescription13">Pedro Lemos Restaurant</string>
+    <string name="portoLocalDescription13">One of Porto\'s two Michelin-starred restaurants, Pedro Lemos is sheer delight. With a love of seasonally sourced produce and robust flavours,
+        the eponymous chef creates culinary fireworks using first-class ingredients from land and sea – be it ultra-fresh Atlantic bivalves or Alentejano black pork cooked to
+        smoky deliciousness with wild mushrooms. Choose between the subtly lit, cosy-chic dining room or the roof terrace..</string>
+    <string name="portoLocalURL13">https://www.lonelyplanet.com/portugal/porto/restaurants/pedro-lemos/a/poi-eat/1510295/360380</string>
+    <string name="portoLocalEmail13">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress13">Rua do Padre Luís Cabral</string>
+    <!-- Restaurants Fragment 02-->
+    <string name="portoLocalName14">MUU</string>
+    <string name="portoLocalSmallDescription14">MUU Restaurant</string>
+    <string name="portoLocalDescription14">So you came for the steak, right? Wise decision. A welcome newcomer to Porto\'s food scene, MUU has carved out a name for itself
+        with outstanding cuts of beef. Homemade Scotch eggs and cheese gratins prelude the main act: a garlic-rubbed rib-eye, say, or tender Black Angus steak.
+        Either way, you won't leave hungry.</string>
+    <string name="portoLocalURL14">https://www.lonelyplanet.com/portugal/porto/restaurants/muu/a/poi-eat/1593610/360380</string>
+    <string name="portoLocalEmail14">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress14">Rua do Almada</string>
+    <!-- Restaurants Fragment 03-->
+    <string name="portoLocalName15">Cantina 32</string>
+    <string name="portoLocalSmallDescription15">Cantina 32 restaurant</string>
+    <string name="portoLocalDescription15">Industrial-chic meets boho at this delightfully laid-back haunt, with its walls of polished concrete, mismatched crockery, verdant plants,
+        and vintage knickknacks ranging from a bicycle to an old typewriter. The menu is just as informal – petiscos such as pica-pau steak (bite-sized pieces of steak in a garlic-white-wine
+        sauce), quail egg croquettes, and cheesecake served in a flower pot reveal a pinch of creativity.</string>
+    <string name="portoLocalURL15">https://www.lonelyplanet.com/portugal/porto/restaurants/cantina-32/a/poi-eat/1509353/360380</string>
+    <string name="portoLocalEmail15">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress15">Rua das Flores</string>
+    <!-- Restaurants Fragment 04-->
+    <string name="portoLocalName16">Euskalduna Studio</string>
+    <string name="portoLocalSmallDescription16">Euskalduna Studio restaurant</string>
+    <string name="portoLocalDescription16">Everyone loves surprises, especially edible ones prepared with flawless execution, experimental finesse and a nod to the seasons.
+        Just 16 lucky diners (eight at the green marble counter peeking into the kitchen, eight at oak tables) get to sample Vasco Coelho Santos’ stunning 10-course menus that allow
+        flavours and textures to shine.</string>
+    <string name="portoLocalURL16">https://www.lonelyplanet.com/portugal/porto/restaurants/euskalduna-studio/a/poi-eat/1593611/360380</string>
+    <string name="portoLocalEmail16">contributors@lonelyplanet.com</string>
+    <string name="portoLocalAddress16">Rua de Santo Ildefonso</string>
+
+</resources>

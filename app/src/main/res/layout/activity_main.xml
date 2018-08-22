@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_linear_layout"
+    style="@style/main_layout"
+    android:background="@drawable/portrait"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/porto_main_activity"
+        style="@style/porto_main_activity"
+        android:text="@string/porto_main_activity" />
+
+    <TextView
+        android:id="@+id/porto_main_text"
+        style="@style/porto_main_text"
+        android:text="@string/porto_main_text" />
+
+    <TextView
+        android:id="@+id/porto_come_explore"
+        style="@style/porto_come_explore"
+        android:text="@string/porto_explore_button" />
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/portoList01"
+    style="@style/portoList01">
+
+    <ImageView
+        android:id="@+id/porto_picture_list"
+        style="@style/porto_picture_list"
+        android:src="@drawable/porto_list" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        style="@style/text_container">
+
+        <TextView
+            android:id="@+id/portoLocalName"
+            style="@style/portoLocalName"
+            tools:text="Porto Local Name" />
+
+        <TextView
+            android:id="@+id/portoSmallDesc"
+            style="@style/portoSmallDesc"
+            tools:text="Small description of Porto Local" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/play_arrow"
+        style="@style/play_arrow"
+        android:src="@drawable/playbutton" />
+</RelativeLayout>

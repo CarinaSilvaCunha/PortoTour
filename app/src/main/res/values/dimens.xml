@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DP -->
+    <dimen name="zerodp">0dp</dimen>
+    <dimen name="fifteendp">15dp</dimen>
+    <dimen name="twentyfivedp">25dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="fiftydp">50dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="ninetydp">90dp</dimen>
+    <dimen name="hundreddp">100dp</dimen>
+
+    <!-- SP -->
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="twentysp">20sp</dimen>
+    <dimen name="thirtysp">30sp</dimen>
+
+    <!-- SIMPLE -->
+    <dimen name="sizezerotwo">0.2</dimen>
+    <dimen name="sizeone">1</dimen>
+    <dimen name="sizetwo">2</dimen>
+    <dimen name="sizefive">5</dimen>
+
+</resources>

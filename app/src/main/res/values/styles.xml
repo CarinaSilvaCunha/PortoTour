@@ -1,0 +1,196 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="main_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="porto_main_activity">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">@dimen/fifteendp</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:shadowColor">@color/textShadow</item>
+        <item name="android:shadowDx">@dimen/sizetwo</item>
+        <item name="android:shadowDy">@dimen/sizetwo</item>
+        <item name="android:shadowRadius">@dimen/sizefive</item>
+        <item name="android:textColor">@color/baseTextColor</item>
+        <item name="android:textSize">@dimen/thirtysp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="porto_main_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:gravity">top|center</item>
+        <item name="android:shadowColor">@color/textShadow</item>
+        <item name="android:shadowDx">@dimen/sizetwo</item>
+        <item name="android:shadowDy">@dimen/sizetwo</item>
+        <item name="android:shadowRadius">@dimen/sizefive</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/baseTextColor</item>
+        <item name="android:textSize">@dimen/fifteensp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="porto_come_explore">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizetwo</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:paddingBottom">@dimen/thirtydp</item>
+        <item name="android:shadowColor">@color/textShadow</item>
+        <item name="android:shadowDx">@dimen/sizetwo</item>
+        <item name="android:shadowDy">@dimen/sizetwo</item>
+        <item name="android:shadowRadius">@dimen/sizefive</item>
+        <item name="android:textColor">@color/baseTextColor</item>
+        <item name="android:textSize">@dimen/twentysp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="porto_layout_list">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:drawSelectorOnTop">true</item>
+    </style>
+
+    <style name="local_information_relative_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="local_information_picture">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:contentDescription">Local Picture</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+    <style name="local_information_linear">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizezerotwo</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="local_information_telephone">
+        <item name="android:layout_width">@dimen/zerodp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:contentDescription">Telephone Details</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+    <style name="local_information_website">
+        <item name="android:layout_width">@dimen/zerodp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:contentDescription">Website</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+    <style name="local_information_email">
+        <item name="android:layout_width">@dimen/zerodp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:contentDescription">Website</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+    <style name="local_information_address">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizezerotwo</item>
+        <item name="android:paddingLeft">@dimen/tendp</item>
+        <item name="android:paddingRight">@dimen/tendp</item>
+        <item name="android:textColor">@color/greyBlack</item>
+        <item name="android:textSize">@dimen/fifteensp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="local_information_description">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:paddingLeft">@dimen/tendp</item>
+        <item name="android:paddingRight">@dimen/tendp</item>
+        <item name="android:textColor">@color/greyBlack</item>
+        <item name="android:textSize">@dimen/fifteensp</item>
+    </style>
+
+    <style name="portoTabLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/shallowBlack</item>
+    </style>
+
+    <style name="portoList01">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/ninetydp</item>
+    </style>
+
+    <style name="porto_picture_list">
+        <item name="android:layout_width">@dimen/hundreddp</item>
+        <item name="android:layout_height">@dimen/ninetydp</item>
+        <item name="android:contentDescription">@string/porto_placeholder</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="text_container">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/ninetydp</item>
+        <item name="android:layout_alignBottom">@id/porto_picture_list</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_toRightOf">@id/porto_picture_list</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">@dimen/fifteendp</item>
+        <item name="android:paddingRight">@dimen/fiftydp</item>
+    </style>
+
+    <style name="portoLocalName">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizeone</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="portoSmallDesc">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/zerodp</item>
+        <item name="android:layout_weight">@dimen/sizetwo</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="play_arrow">
+        <item name="android:layout_width">@dimen/twentyfivedp</item>
+        <item name="android:layout_height">@dimen/twentyfivedp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginRight">@dimen/fifteendp</item>
+        <item name="android:contentDescription">@string/click</item>
+    </style>
+
+
+</resources>
